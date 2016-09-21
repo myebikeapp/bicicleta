@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     private DrawerLayout drawerLayout;
 
+    /*PRUEBA*/
     /**
      * Titulo inicial del drawer
      *
