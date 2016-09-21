@@ -27,7 +27,7 @@ import com.asovel.bibicleta.R;
 
 public class MainActivity extends AppCompatActivity {
     /**
-     * Instancia del drawer
+     * Instancia del drawers
      */
 
     private DrawerLayout drawerLayout;
