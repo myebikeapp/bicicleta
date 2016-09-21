@@ -16,7 +16,7 @@ import com.asovel.bibicleta.R;
 public class BicicletaActivity extends AppCompatActivity {
     public RecyclerView recyclerView;
     public LinearLayoutManager linearLayout;
-
+    /*HOLA*/
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
