@@ -17,6 +17,7 @@ public class BicicletaActivity extends AppCompatActivity {
     public RecyclerView recyclerView;
     public LinearLayoutManager linearLayout;
     /*HOLA2 boris soy yo*/
+    /*hola loko ke ase?*/
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
