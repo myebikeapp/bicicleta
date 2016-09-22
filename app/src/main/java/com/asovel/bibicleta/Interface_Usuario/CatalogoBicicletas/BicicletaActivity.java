@@ -19,6 +19,7 @@ public class BicicletaActivity extends AppCompatActivity {
     //hello soy yo otra vez
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)
     @Override
+    /*piripiripirpipiii*/
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.bicicleta_activity);
