@@ -27,11 +27,12 @@ import com.asovel.bibicleta.R;
 //prueba
 public class MainActivity extends AppCompatActivity {
     /**
-     * Instancia del drawer
+     * Instancia del drawers
      */
 
     private DrawerLayout drawerLayout;
 
+    /*PRUEBA*/
     /**
      * Titulo inicial del drawer
      *
